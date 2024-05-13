@@ -188,6 +188,11 @@ body {
   border-color: rgb(33, 150, 243);
 }
 
+#hate-button {
+  color: rgb(243, 72, 33);
+  border-color: rgb(243, 82, 33);
+}
+
 .custom-btn {
     width: 130px;
     height: 40px;
