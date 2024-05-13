@@ -39,7 +39,7 @@ nav {
 }
 
 nav .nav-section {
-  padding: 3rem 2rem;
+  padding: 2.5rem 2rem;
   display: flex;
   gap: 1rem;
   border-left: 1px solid var(--border-color);
