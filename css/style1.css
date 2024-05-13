@@ -1,8 +1,7 @@
 :root {
-    --background-color: rgb(6, 11, 25);
-    --border-color: rgb(255, 255, 255, 0.1);
+    --background-color:#F8EDEB;
+    --border-color: #A2D2FF;
     --highlight-color: rgb(126, 87, 194);
-    --yt-color: rgb(229, 57, 53);
   }
 
 body {
@@ -21,7 +20,7 @@ body {
 h1, h2, h3, a, p, span {
   font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: white;
+  color: #CDB4DB; 
   margin: 0px;
 }
 
@@ -136,7 +135,7 @@ main > article > .article-description-section {
 }
 
 main > article > .article-description-section > p {
-  color: rgba(255, 255, 255, 0.5);
+  color:rgb(13, 13, 13);
   font-size: 1.25em;
 }
 
@@ -151,7 +150,7 @@ main > article > .article-title-section {
 }
 
 main > article > .article-title-section * {
-  color: white;
+  color: rgb(13, 13, 13);
 }
 
 main > article > .article-title-section > h2 {
@@ -173,7 +172,7 @@ main > article > .article-nav-section > .article-nav-button {
   flex-grow: 1;
   border: none;
   outline: none;
-  color: rgba(255, 255, 255, 0.75);
+  color: #FEC89A;
   font-size: 3rem;
   cursor: pointer;
 }
