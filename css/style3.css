@@ -110,19 +110,19 @@ border-top: 1px solid var(--border-color);
 }
 
 main > article:first-child > .article-image-section {
-background-image: url("/PG3/Creative\ Journaling\ Windowsill\ Pies.jpg");
+background-image: url("PG3/Creative\ Journaling\ Windowsill\ Pies.jpg");
 }
 
 main > article:nth-child(2) > .article-image-section {
-background-image: url("/CG3/February\ 9\,\ 2024.jpg");
+background-image: url("CG3/February\ 9\,\ 2024.jpg");
 }
 
 main > article:nth-child(3) > .article-image-section {
-background-image: url("/PG3/Illustrated\ Recipe\ Pesto\ Bruschetta.jpg");
+background-image: url("PG3/Illustrated\ Recipe\ Pesto\ Bruschetta.jpg");
 }
 
 main > article:nth-child(4) > .article-image-section {
-background-image: url("/CG3/January\ 16\,\ 2024.jpg");
+background-image: url("CG3/January\ 16\,\ 2024.jpg");
 }
 
 main > article > .article-image-section {

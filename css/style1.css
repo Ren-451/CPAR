@@ -110,19 +110,19 @@ main > article > .article-nav-section {
 }
 
 main > article:first-child > .article-image-section {
-  background-image: url("/PG1/May\ 19\ 2018.PNG")
+  background-image: url("PG1/May\ 19\ 2018.PNG")
 }
 
 main > article:nth-child(2) > .article-image-section {
-  background-image: url("/CG1/Feb19.PNG")
+  background-image: url("CG1/Feb19.PNG")
 }
 
 main > article:nth-child(3) > .article-image-section {
-  background-image: url("/PG1/september\ 29\ 2019.PNG");
+  background-image: url("PG1/september\ 29\ 2019.PNG");
 }
 
 main > article:nth-child(4) > .article-image-section {
-  background-image: url("/CG1/November\ 29\ 2023.PNG");
+  background-image: url("CG1/November\ 29\ 2023.PNG");
 }
 
 main > article > .article-image-section {
