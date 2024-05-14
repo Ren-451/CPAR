@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 :root {
   --background-color:#F8EDEB;
   --border-color: #A2D2FF;
@@ -18,7 +20,7 @@ box-sizing: border-box;
 }
 
 h1, h2, h3, a, p, span {
-font-family: "Rubik", sans-serif;
+font-family: "Playfair Display", serif;
 font-weight: 400;
 color: #CDB4DB; 
 margin: 0px;
@@ -155,7 +157,7 @@ color: rgb(13, 13, 13);
 
 main > article > .article-title-section > h2 {
 flex-basis: 50%;
-font-family: "Montserrat", sans-serif;
+font-family: "Playfair Display", serif;
 font-size: 3.5rem;
 line-height: 3rem;
 margin: 0px;
