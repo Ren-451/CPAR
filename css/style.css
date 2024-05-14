@@ -92,35 +92,35 @@ body {
 
 /* Group 1 Title Cards */
 .card-group[data-index="0"] > .big-card:nth-child(6) {
-  background-image: url("CG1/Feb19.PNG");
+  background-image: url("/CG1/Feb19.PNG");
 }
 
 .card-group[data-index="0"] > .big-card:nth-child(8) {
-  background-image: url("PG1/December\ 1\ 2019.PNG");
+  background-image: url("/PG1/December\ 1\ 2019.PNG");
 }
 
 .card-group[data-index="0"] > .big-card:nth-child(4) {
-  background-image: url("PG1/May\ 19\ 2018.PNG");
+  background-image: url("/PG1/May\ 19\ 2018.PNG");
 }
 
 .card-group[data-index="0"] > .big-card:nth-child(2) {
-  background-image: url("PG1/September\ 14\ 2020.PNG");
+  background-image: url("/PG1/September\ 14\ 2020.PNG");
 }
 
 .card-group[data-index="0"] > .little-card:nth-child(1) {
-  background-image: url("PG1/september\ 29\ 2019.PNG");
+  background-image: url("/PG1/september\ 29\ 2019.PNG");
 }
 
 .card-group[data-index="0"] > .little-card:nth-child(3) {
-  background-image: url("CG1/March11.PNG");
+  background-image: url("/CG1/March11.PNG");
 }
 
 .card-group[data-index="0"] > .little-card:nth-child(5) {
-  background-image: url("CG1/March\ 31\ 2022.PNG");
+  background-image: url("/CG1/March\ 31\ 2022.PNG");
 }
 
 .card-group[data-index="0"] > .little-card:nth-child(7) {
-  background-image: url("CG1/November\ 29\ 2023.PNG");
+  background-image: url("/CG1/November\ 29\ 2023.PNG");
 }
 
 /* Group 3 Title Cards */
