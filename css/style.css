@@ -96,6 +96,7 @@ body {
 
 /* Group 1 Title Cards */
 .card-group[data-index="0"] > .big-card:nth-child(6) {
+<<<<<<< HEAD
   background-image: url("CG1/Feb19.PNG");
 }
 
@@ -125,10 +126,42 @@ body {
 
 .card-group[data-index="0"] > .little-card:nth-child(7) {
   background-image: url("CG1/November\ 29\ 2023.PNG");
+=======
+  background-image: url("/CG1/Feb19.PNG");
+}
+
+.card-group[data-index="0"] > .big-card:nth-child(8) {
+  background-image: url("/PG1/December\ 1\ 2019.PNG");
+}
+
+.card-group[data-index="0"] > .big-card:nth-child(4) {
+  background-image: url("/PG1/May\ 19\ 2018.PNG");
+}
+
+.card-group[data-index="0"] > .big-card:nth-child(2) {
+  background-image: url("/PG1/September\ 14\ 2020.PNG");
+}
+
+.card-group[data-index="0"] > .little-card:nth-child(1) {
+  background-image: url("/PG1/september\ 29\ 2019.PNG");
+}
+
+.card-group[data-index="0"] > .little-card:nth-child(3) {
+  background-image: url("/CG1/March11.PNG");
+}
+
+.card-group[data-index="0"] > .little-card:nth-child(5) {
+  background-image: url("/CG1/March\ 31\ 2022.PNG");
+}
+
+.card-group[data-index="0"] > .little-card:nth-child(7) {
+  background-image: url("/CG1/November\ 29\ 2023.PNG");
+>>>>>>> 29ada253174f03e3bf01a82affcc8d2bd5fee71b
 }
 
 /* Group 3 Title Cards */
 .card-group[data-index="1"] > .big-card:nth-child(6) {
+<<<<<<< HEAD
   background-image: url("PG3/Creative\ Journaling\ Windowsill\ Pies.jpg");
 }
 
@@ -158,6 +191,37 @@ body {
 
 .card-group[data-index="1"] > .little-card:nth-child(7) {
   background-image: url("PG3/Illustrated\ Recipe\ Pesto\ Bruschetta.jpg");
+=======
+  background-image: url("/PG3/Creative\ Journaling\ Windowsill\ Pies.jpg");
+}
+
+.card-group[data-index="1"] > .big-card:nth-child(8) {
+  background-image: url("/CG3/February\ 9\,\ 2024.jpg");
+}
+
+.card-group[data-index="1"] > .big-card:nth-child(4) {
+  background-image: url("/CG3/January\ 16\,\ 2024.jpg");
+}
+
+.card-group[data-index="1"] > .big-card:nth-child(2) {
+  background-image: url("/CG3/January\ 18\,\ 2024.jpg");
+}
+
+.card-group[data-index="1"] > .little-card:nth-child(1) {
+  background-image: url("/CG3/January\ 19\,\ 2024.jpg");
+}
+
+.card-group[data-index="1"] > .little-card:nth-child(3) {
+  background-image: url("/PG3/DearFrontliners.jpg");
+}
+
+.card-group[data-index="1"] > .little-card:nth-child(5) {
+  background-image: url("/PG3/Doodle\ Fairy\ of\ the\ Woods.jpg");
+}
+
+.card-group[data-index="1"] > .little-card:nth-child(7) {
+  background-image: url("/PG3/Illustrated\ Recipe\ Pesto\ Bruschetta.jpg");
+>>>>>>> 29ada253174f03e3bf01a82affcc8d2bd5fee71b
 }
 
 .card-group:hover > .card {  
